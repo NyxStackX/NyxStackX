@@ -59,6 +59,6 @@ Le silence me donne la direction.
 
 <div align="center">
 
-`noir · violet · silence · vision`
+`silence · vision · focus · évolution`
 
 </div>
