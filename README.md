@@ -87,18 +87,6 @@ PID   PROCESS                  STATUS      NOTE
 
 ---
 
-### ▸ activité
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NyxStackX/NyxStackX/output/github-snake-dark.svg" alt="snake" />
-
-`// les commits disparaissent, le travail reste.`
-
-</div>
-
----
-
 <details>
 <summary><code>fichier_classé.txt - ne pas ouvrir</code></summary>
 
