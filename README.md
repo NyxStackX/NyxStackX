@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1600&color=8B5CF6&center=true&vCenter=true&width=760&lines=%3E+connexion+%C3%A9tablie...;%3E+identit%C3%A9+%3A+%5BREDACTED%5D;%3E+je+code+la+nuit%2C+je+debug+%C3%A0+l%27aube.;%3E+les+bugs+ont+peur+du+noir.+moi+non." alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1600&color=C9D1D9&center=true&vCenter=true&width=760&lines=%3E+connexion+%C3%A9tablie...;%3E+identit%C3%A9+%3A+%5BREDACTED%5D;%3E+je+code+la+nuit%2C+je+debug+%C3%A0+l%27aube.;%3E+les+bugs+ont+peur+du+noir.+moi+non." alt="typing" />
 
 `// tout ce que tu dois savoir est dans le code.`
 
